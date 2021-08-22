@@ -1,0 +1,25 @@
+
+body {
+  background-image: url("https://cdn.theculturetrip.com/wp-content/uploads/2016/07/1024px-the_great_hall_of_union_station_in_toronto-1024x683.jpg");
+  background-size: cover;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-weight: bold;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  width: 100%;
+  height: 100vh;
+}
+
+h1 {
+  font-size: 50px;
+}
+
+h2 {
+  font-size: 55px;
+
+}
+
+
